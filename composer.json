@@ -19,7 +19,7 @@
         "mockery/mockery": "0.9.*"
     },
     "suggest": {
-        "maknz/slack-laravel": "Required for Laravel support",
+        "ventureapp/slack-laravel": "Required for Laravel support",
         "nexylan/slack-bundle": "Required for Symfony bundle support"
     },
     "autoload": {
