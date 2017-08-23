@@ -1,6 +1,6 @@
 <?php
 
-namespace Maknz\Slack;
+namespace VentureApp\Slack;
 
 class ActionConfirmation
 {

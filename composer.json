@@ -1,11 +1,11 @@
 {
-    "name": "maknz/slack",
+    "name": "ventureapp/slack",
     "description": "A simple PHP package for sending messages to Slack, with a focus on ease of use and elegant syntax.",
     "keywords": ["laravel", "slack"],
     "license": "BSD-2-Clause",
     "authors": [
         {
-            "name": "maknz",
+            "name": "VentureApp",
             "email": "github@mak.geek.nz"
         }
     ],
@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Maknz\\Slack\\": "src/"
+            "VentureApp\\Slack\\": "src/"
         }
     },
     "minimum-stability": "stable"
